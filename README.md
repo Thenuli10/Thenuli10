@@ -1,7 +1,4 @@
-# Hi, I'm Ten 👋
-
-Data science grad from **RMIT University** (Advanced Data Science), based in Melbourne.
-I like turning messy data into something people can actually use — dashboards, models, and clear answers.
+<!-- Banner --> <img src="banner.svg" width="100%" alt="Thenuli Jayasena"/> <!-- Typing animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=97C459&center=true&vCenter=true&width=600&lines=Every+dataset+has+a+story+📊;Data+Science+Grad+%40+RMIT" alt="Typing SVG" /> </p> <p align="center"> 📍 Melbourne, Australia &nbsp;|&nbsp; 🎓 RMIT University </p>
 
 ## About me
 
