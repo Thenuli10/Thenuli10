@@ -1,6 +1,6 @@
 <!-- 🌸 header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f9c5d5,50:e8c4f0,100:c9b6e4&text=Hi,%20I%27m%20Thenuli%20✨&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Coffee%20Lover%20%E2%80%A2%20Melbourne&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f9c5d5,50:e8c4f0,100:c9b6e4&text=Hi,%20I%27m%20Thenuli%20✨&fontColor=ffffff&fontSize=50&fontAlignY=42&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ name:        Thenuli Jayasena (Ten)
 based_in:    Melbourne, Australia 🇦🇺
 studied:     Bachelor of Advanced Data Science @ RMIT
 into:        [Machine Learning, Network Analytics, Databases, Dashboards]
-fun_fact:    4+ years making lattes — I can pour latte art
+fun_fact:    4+ years making lattes — I can pour latte art 
 ```
 
 ---
