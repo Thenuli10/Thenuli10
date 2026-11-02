@@ -11,17 +11,13 @@ I like turning messy data into something people can actually use — dashboards,
 - 🌱 Learning: SQL (working towards certification)
 - ☕ 4+ years as a barista and shift leader — I know how to work with people under pressure
 
-## Projects
-
-**Agentic Data Analysis Tool** *(in progress)*
-AI agents take a business question, ask for the data they need, run the analysis and present the results in a dashboard.
-
-**Centralised Analytics Dashboard** — RMIT Industry Capstone *(Project Lead)*
-Built a central analytics dashboard for an industry client, Food Systems Collective.
-
 ## Skills
-
-`Python` `SQL` `Machine Learning` `Data Visualisation` `Database Systems` `Social Media & Network Analytics`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Get in touch
 
