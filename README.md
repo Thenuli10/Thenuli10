@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1000&color=E58FB5&center=true&vCenter=true&width=520&lines=Advanced+Data+Science+Grad+%40+RMIT;Turning+Messy+Data+Into+Pretty+Insights;Barista+By+Day%2C+Data+Girl+By+Night;Always+Learning+Something+New" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1000&color=E58FB5&center=true&vCenter=true&width=520&lines=Advanced+Data+Science+Grad+%40+RMIT;Turning+Messy+Data+Into+Pretty+Insights;Open+To+New+Opportunities;Let%27s+Build+Something+Pretty+Together" alt="typing" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ name:        Thenuli Jayasena (Ten)
 based_in:    Melbourne, Australia 🇦🇺
 studied:     Bachelor of Advanced Data Science @ RMIT
 into:        [Machine Learning, Network Analytics, Databases, Dashboards]
-fun_fact:    4+ years making lattes — I can pour latte art 
+fun_fact:    4+ years making lattes — I can pour latte art
 ```
 
 ---
