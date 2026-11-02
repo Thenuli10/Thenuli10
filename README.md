@@ -21,7 +21,7 @@
 name:        Thenuli Jayasena (Ten)
 based_in:    Melbourne, Australia 🇦🇺
 studied:     Bachelor of Advanced Data Science @ RMIT
-into:        [Machine Learning, Network Analytics, Databases, Dashboards]
+into:        [Machine Learning, Data Analytics, Databases, Dashboards]
 fun_fact:    4+ years making lattes — I can pour latte art 
 ```
 
